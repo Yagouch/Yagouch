@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/yago-carballo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a>
+  <a href="https://www.yagocarballo.com">
     <img src="https://img.shields.io/badge/Website-white?style=for-the-badge" alt="Personal website"/>
   </a>
 </div>
