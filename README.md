@@ -1,7 +1,7 @@
 <h1 align="center">Hi!👋 I'm Yago!</h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47mweiy3i9fykk02gz83exod44rzv1j028p0pfa4g2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47prbjqb78cu8wmxl8j935hmkuyf93tkhqb1qpv2bk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
 <div id="badges" align="center">
