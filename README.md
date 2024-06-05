@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<p align="center">Hi there!👋 My name is<strong> Yago</strong> I'm in my third year of Telecomunications Engineer 🙇‍♂️ I'm from Pontevedra, Galicia 📍 And I really enjoy delivering solutions and decision making!</p>
+<p align="center">Hi there!👋 My name is<strong> Yago</strong> I'm on my third year of Telecomunications Engineer 🙇‍♂️ I'm from Pontevedra, Galicia 📍 And I really enjoy delivering solutions and decision making!</p>
 
 <div align="center">
   <h2>:fire:My stats</h2>
@@ -26,9 +26,9 @@
 <div align="center">
   <h2>General info</h2>
   <div>
-    <p>🔭 I’m currently doing projects with Python and HTML/SCSS/JS 🔭</p>
-    <p>🌱 I’m currently learning JavaScript / NodeJS / npm 🌱</p>
-    <p>👯 I’m looking to collaborate on Python or JavaScript projects 👯</p>
+    <p>🔭 I’m currently doing projects with Python and Astro / TailwindCSS / Javascript 🔭</p>
+    <p>🌱 I’m currently learning JavaScript / React 🌱</p>
+    <p>👯 I’m looking to collaborate on JavaScript projects 👯</p>
     <p>🗺️ Currently living at Barcelona, Spain 🗺️</p>
   </div>
 </div>
